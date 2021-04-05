@@ -1,6 +1,5 @@
 #include<iostream>
 using namespace std;
-
 int main()
 {
 	int x,sum = 0;
