@@ -26,3 +26,4 @@ public class LargestPrimeFactor
 		System.out.println(num);
 	}
 }
+
